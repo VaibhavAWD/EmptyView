@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':empty-view'
 rootProject.name='EmptyView'
